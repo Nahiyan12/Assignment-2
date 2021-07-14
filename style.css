@@ -1,0 +1,89 @@
+.section-1{ 
+font-family: 'Zen Tokyo Zoo', cursive;
+background-color: blue;
+background-image: linear-gradient(rgb(255, 0, 85), blue);
+ font-size: 60px;
+ padding-right: 100px;
+ border: 10px solid rgb(255, 0, 85);
+}
+.image img{
+    width: 60%;
+    padding-left: 500px;
+    padding-top: 40px;
+}
+section{
+    display: flex;
+}
+.button1{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 10px;
+    font-size: 60px;
+    background-color: rgb(255, 0, 51);
+    color: black;
+    margin: 20px;
+    border: 10px solid black;
+}
+.button2{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 5px;
+    font-size: 28px;
+    color: black;
+    padding-left: 30px;
+    background-image: linear-gradient(rgb(255, 0, 85), blue);
+
+}
+.bio{
+font-size: 20px;
+color: rgb(51, 23, 77);
+}
+
+.login-container{
+    font-family: 'Fredoka One', cursive;
+    border-radius: 10px;
+    justify-content: center;
+}
+.login-container input{
+    border: 10px solid rgb(0, 0, 0);
+    font-family: 'Fredoka One', cursive;
+    width: 5%;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(255, 0, 85), blue);
+}
+.login-container button{
+    border: 10px solid rgb(0, 0, 0);
+    font-family: 'Fredoka One', cursive;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(255, 0, 85), blue);
+}
+.bordered-text{
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.bordered-text-login{
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(255, 0, 85), blue);
+}
+.sect-3-txt{
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 70px;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.sect-3{
+    width: 40%;
+    display: flex;
+}
+.sect-3 img{
+    width: 100%;
+    border: 10px solid black;
+    padding-left: 0px;
+}
+.endimg{
+    padding-left: 450px;
+    padding-top: 100px;
+}
+
+
